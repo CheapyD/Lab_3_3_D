@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Lab_test_3_3_D.cpp
+C:\Users\maksd\source\repos\Lab_3_3_D\Lab_3_3_D\Triangle_Public.h(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\maksd\source\repos\Lab_3_3_D\Lab_3_3_D\Triangle_Public.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\maksd\source\repos\Lab_3_3_D\Lab_test_3_3_D\Lab_test_3_3_D.cpp(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+     Создается библиотека C:\Users\maksd\source\repos\Lab_3_3_D\Debug\Lab_test_3_3_D.lib и объект C:\Users\maksd\source\repos\Lab_3_3_D\Debug\Lab_test_3_3_D.exp
+  Lab_test_3_3_D.vcxproj -> C:\Users\maksd\source\repos\Lab_3_3_D\Debug\Lab_test_3_3_D.dll

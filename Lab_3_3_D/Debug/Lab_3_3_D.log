@@ -1,0 +1,13 @@
+﻿  Lab_3_3_D.cpp
+C:\Users\maksd\source\repos\Lab_3_3_D\Lab_3_3_D\Triangle_Private.h(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\maksd\source\repos\Lab_3_3_D\Lab_3_3_D\Lab_3_3_D.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Triad.cpp
+C:\Users\maksd\source\repos\Lab_3_3_D\Lab_3_3_D\Triad.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Triangle_Private.cpp
+C:\Users\maksd\source\repos\Lab_3_3_D\Lab_3_3_D\Triangle_Private.h(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\maksd\source\repos\Lab_3_3_D\Lab_3_3_D\Triangle_Private.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Triangle_Public.cpp
+C:\Users\maksd\source\repos\Lab_3_3_D\Lab_3_3_D\Triangle_Public.h(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\maksd\source\repos\Lab_3_3_D\Lab_3_3_D\Triangle_Public.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Создание кода...
+  Lab_3_3_D.vcxproj -> C:\Users\maksd\source\repos\Lab_3_3_D\Debug\Lab_3_3_D.exe
